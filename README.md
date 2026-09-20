@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://github.com/ankitraj-1602">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=620&lines=Hi+there%2C+I%27m+Ankit+Raj+%F0%9F%91%8B;Full-Stack+Developer;MERN+Stack+%7C+3YOE+Experience;Building+scalable+backends" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=620&lines=Hi+there%2C+I%27m+Ankit+Raj+%F0%9F%91%8B;Full-Stack+Developer;MERN+Stack+%7C+3+Years+Experience;Building+scalable+backends" alt="Typing animation" />
 </a>
 
 <p>
