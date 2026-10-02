@@ -47,8 +47,6 @@
 
 ---
 
-<!-- ==================== ABOUT ME ==================== -->
-
 ## 👨‍💻 About Me
 
 <table>
@@ -79,8 +77,6 @@
 </table>
 
 ---
-
-<!-- ==================== FEATURED PROJECT ==================== -->
 
 ## 🚀 Featured Project
 
@@ -138,8 +134,6 @@ https://taskflow-backend-production-0006.up.railway.app
 </p>
 
 ---
-
-<!-- ==================== TECH STACK ==================== -->
 
 ## 🛠️ Tech Stack
 
@@ -209,8 +203,6 @@ https://taskflow-backend-production-0006.up.railway.app
 
 ---
 
-<!-- ==================== GITHUB STATS ==================== -->
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -238,24 +230,6 @@ https://taskflow-backend-production-0006.up.railway.app
 
 ---
 
-<!-- ==================== GITHUB ACTIVITY ==================== -->
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ankitraj-1602"
-  alt="Ankit Raj GitHub Activity Graph"
-  width="95%"
-/>
-
-</div>
-
----
-
-<!-- ==================== PROFILE SUMMARY ==================== -->
-
 ## 📌 Contribution Overview
 
 <div align="center">
@@ -269,8 +243,6 @@ https://taskflow-backend-production-0006.up.railway.app
 </div>
 
 ---
-
-<!-- ==================== CURRENT FOCUS ==================== -->
 
 ## 🎯 Current Focus
 
@@ -287,8 +259,6 @@ https://taskflow-backend-production-0006.up.railway.app
 </div>
 
 ---
-
-<!-- ==================== CONNECT ==================== -->
 
 ## 🤝 Let's Connect
 
@@ -328,8 +298,6 @@ https://taskflow-backend-production-0006.up.railway.app
 </div>
 
 ---
-
-<!-- ==================== FOOTER ==================== -->
 
 <img
   width="100%"
