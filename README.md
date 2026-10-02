@@ -1,4 +1,5 @@
-<!-- Header -->
+<!-- ==================== HEADER ==================== -->
+
 <img
   width="100%"
   src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:38B2AC&height=140&section=header"
@@ -46,10 +47,13 @@
 
 ---
 
+<!-- ==================== ABOUT ME ==================== -->
+
 ## 👨‍💻 About Me
 
 <table>
 <tr>
+
 <td width="60%" valign="middle">
 
 - 🔭 Building **[TaskFlow](https://github.com/ankitraj-1602/TaskFlow)**, a production-style multi-tenant project management SaaS with real-time collaboration, RBAC, caching, background jobs, and CI/CD.
@@ -70,20 +74,25 @@
 />
 
 </td>
+
 </tr>
 </table>
 
 ---
+
+<!-- ==================== FEATURED PROJECT ==================== -->
 
 ## 🚀 Featured Project
 
 <div align="center">
 
 <a href="https://github.com/ankitraj-1602/TaskFlow">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ankitraj-1602&repo=TaskFlow&theme=tokyonight&hide_border=true"
-    alt="TaskFlow repository card"
-  />
+
+<img
+  src="https://github-readme-stats.vercel.app/api/pin/?username=ankitraj-1602&repo=TaskFlow&theme=tokyonight&hide_border=true"
+  alt="TaskFlow repository card"
+/>
+
 </a>
 
 </div>
@@ -101,12 +110,12 @@ https://taskflow-backend-production-0006.up.railway.app
 | Area | Highlights |
 |---|---|
 | 🔐 **Authentication & Security** | JWT authentication, refresh-token rotation, email verification, and RBAC across 5 roles |
-| 📋 **Project Management** | Kanban boards, task management, drag-and-drop workflow |
+| 📋 **Project Management** | Kanban boards, task management, and drag-and-drop workflow |
 | ⚡ **Performance** | Redis caching reduced dashboard response time from **400ms → 20ms** |
 | 🔔 **Real-Time** | Socket.IO notifications and real-time collaboration |
 | 🚀 **Background Jobs** | BullMQ for asynchronous background processing |
 | 🧪 **Testing** | 121 Jest tests executed through GitHub Actions |
-| 🐳 **DevOps** | Docker, Docker Compose, CI/CD, branch protection |
+| 🐳 **DevOps** | Docker, Docker Compose, CI/CD, and branch protection |
 | 🗄️ **Database** | PostgreSQL with full-text search |
 
 <p align="center">
@@ -130,14 +139,20 @@ https://taskflow-backend-production-0006.up.railway.app
 
 ---
 
+<!-- ==================== TECH STACK ==================== -->
+
 ## 🛠️ Tech Stack
 
 <table>
+
 <tr>
 <td><b>Languages</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=js,ts,cpp,c,py" alt="Languages" />
+<img
+  src="https://skillicons.dev/icons?i=js,ts,cpp,c,py"
+  alt="Languages"
+/>
 
 </td>
 </tr>
@@ -146,7 +161,10 @@ https://taskflow-backend-production-0006.up.railway.app
 <td><b>Frontend</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css,bootstrap" alt="Frontend" />
+<img
+  src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css,bootstrap"
+  alt="Frontend"
+/>
 
 </td>
 </tr>
@@ -155,7 +173,10 @@ https://taskflow-backend-production-0006.up.railway.app
 <td><b>Backend</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,socketio" alt="Backend" />
+<img
+  src="https://skillicons.dev/icons?i=nodejs,express,nestjs,socketio"
+  alt="Backend"
+/>
 
 </td>
 </tr>
@@ -164,7 +185,10 @@ https://taskflow-backend-production-0006.up.railway.app
 <td><b>Database & Infrastructure</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,githubactions,vercel,aws" alt="Database and Infrastructure" />
+<img
+  src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,githubactions,vercel,aws"
+  alt="Database and Infrastructure"
+/>
 
 </td>
 </tr>
@@ -173,7 +197,10 @@ https://taskflow-backend-production-0006.up.railway.app
 <td><b>Tools</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,jira" alt="Tools" />
+<img
+  src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,jira"
+  alt="Tools"
+/>
 
 </td>
 </tr>
@@ -182,18 +209,18 @@ https://taskflow-backend-production-0006.up.railway.app
 
 ---
 
+<!-- ==================== GITHUB STATS ==================== -->
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- GitHub Stats -->
 <img
   height="180"
   src="https://github-stats-extended.vercel.app/api?username=ankitraj-1602&show_icons=true&theme=tokyonight&hide_border=true"
   alt="Ankit's GitHub Stats"
 />
 
-<!-- Top Languages -->
 <img
   height="180"
   src="https://github-stats-extended.vercel.app/api/top-langs/?username=ankitraj-1602&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
@@ -202,44 +229,48 @@ https://taskflow-backend-production-0006.up.railway.app
 
 <br/><br/>
 
-<!-- GitHub Streak -->
 <img
   src="https://streak-stats.demolab.com/?user=ankitraj-1602&theme=tokyonight&hide_border=true"
   alt="GitHub Streak"
 />
 
-<br/><br/>
+</div>
 
-<!-- Activity Graph -->
+---
+
+<!-- ==================== GITHUB ACTIVITY ==================== -->
+
 ## 📈 GitHub Activity
 
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ankitraj-1602&theme=github-compact&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ankitraj-1602"
   alt="Ankit Raj GitHub Activity Graph"
   width="95%"
 />
 
 </div>
 
-</div>
-
 ---
 
-## 📈 Contribution Activity
+<!-- ==================== PROFILE SUMMARY ==================== -->
+
+## 📌 Contribution Overview
 
 <div align="center">
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitraj-1602&theme=tokyonight"
-  alt="GitHub contribution details"
+  alt="GitHub Contribution Overview"
   width="95%"
 />
 
 </div>
 
 ---
+
+<!-- ==================== CURRENT FOCUS ==================== -->
 
 ## 🎯 Current Focus
 
@@ -257,29 +288,37 @@ https://taskflow-backend-production-0006.up.railway.app
 
 ---
 
+<!-- ==================== CONNECT ==================== -->
+
 ## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/ankitraj-1602">
-  <img
-    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
+
+<img
+  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+  alt="GitHub"
+/>
+
 </a>
 
 <a href="https://linkedin.com/in/ankitrj1602">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
+
+<img
+  src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+  alt="LinkedIn"
+/>
+
 </a>
 
 <a href="mailto:ankitr1602@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
+
+<img
+  src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+  alt="Email"
+/>
+
 </a>
 
 <br/><br/>
@@ -289,6 +328,8 @@ https://taskflow-backend-production-0006.up.railway.app
 </div>
 
 ---
+
+<!-- ==================== FOOTER ==================== -->
 
 <img
   width="100%"
