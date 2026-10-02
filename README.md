@@ -211,11 +211,17 @@ https://taskflow-backend-production-0006.up.railway.app
 <br/><br/>
 
 <!-- Activity Graph -->
+## 📈 GitHub Activity
+
+<div align="center">
+
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ankitraj-1602&theme=tokyo-night&hide_border=true"
-  alt="GitHub Activity Graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ankitraj-1602&theme=github-compact&hide_border=true"
+  alt="Ankit Raj GitHub Activity Graph"
   width="95%"
 />
+
+</div>
 
 </div>
 
